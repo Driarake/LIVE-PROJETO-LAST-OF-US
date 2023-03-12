@@ -1,5 +1,7 @@
 LIVE DO PROJETO THE LAST OF US!!!
 
+Ministrado pelo Dev em Dobro!!!
+
 - HTML
 - CSS
 -  JS
